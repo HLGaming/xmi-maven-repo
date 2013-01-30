@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.xmichel.toolbox</groupId>
+  <artifactId>hibernate-sqlite-bridge</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130108.230547</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130108230547</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-20130108.230547-1</value>
+        <updated>20130108230547</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20130108.230547-1</value>
+        <updated>20130108230547</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
